@@ -1,0 +1,1 @@
+The dice game allows two players to take turns rolling a virtual dice and keeping track of their scores. The first player to reach a predefined winning score is declared the winner.Two players can participate. Roll the dice to accumulate scores. Interactive interface with animations. Congratulatory messages for winners. Reset button to start a new game.
